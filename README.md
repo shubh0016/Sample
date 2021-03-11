@@ -1,2 +1,2 @@
-# Sample
-A sample repository
+
+puts "Hello World"
